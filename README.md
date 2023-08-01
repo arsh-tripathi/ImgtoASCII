@@ -21,4 +21,5 @@ The image should be in png/jpg/jpeg form, and should not be a svg.
 
 ## Results
 
-Here is the result when I pass this image to the program
+The result when I pass this image to the program is as follows:
+
